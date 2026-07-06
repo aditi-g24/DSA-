@@ -9,12 +9,22 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
