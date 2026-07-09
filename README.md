@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aditi-g24/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
@@ -65,6 +66,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aditi-g24/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
@@ -81,4 +83,8 @@
 | [0207-course-schedule](https://github.com/aditi-g24/DSA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditi-g24/DSA-/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/aditi-g24/DSA-/tree/master/0802-find-eventual-safe-states) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/aditi-g24/DSA-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
