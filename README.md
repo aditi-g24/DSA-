@@ -129,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditi-g24/DSA-/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/aditi-g24/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aditi-g24/DSA-/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aditi-g24/DSA-/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aditi-g24/DSA-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aditi-g24/DSA-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
