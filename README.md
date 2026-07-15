@@ -69,6 +69,7 @@
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditi-g24/DSA-/tree/master/0994-rotting-oranges) |
@@ -93,6 +94,7 @@
 | [0062-unique-paths](https://github.com/aditi-g24/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aditi-g24/DSA-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditi-g24/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditi-g24/DSA-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
