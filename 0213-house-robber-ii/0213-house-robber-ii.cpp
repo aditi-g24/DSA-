@@ -1,34 +1,39 @@
 class Solution {
 public:
+    int solve(vector<int>& nums, vector<int>&temp){
+        int n = temp.size();
 
-    int solve(vector<int>& arr, vector<int>& dp, int i){
+        int prev = temp[0];
+        int prev2 = 0;
 
-        if(i == 0) return arr[0];
-        if(i < 0) return 0;
+        for(int i = 1; i < n; i++){
+            int rob = temp[i] + prev2;
+            int notRob = prev;
 
-        if(dp[i] != -1) return dp[i];
+            int curr = max(notRob, rob);
 
-        int pick = arr[i] + solve(arr, dp, i-2);
-        int notPick = solve(arr, dp, i-1);
-
-        return dp[i] = max(pick, notPick);
+            prev2 = prev;
+            prev = curr;
+        }
+        return prev;
     }
-
     int rob(vector<int>& nums) {
-
         int n = nums.size();
 
-        if(n == 1) return nums[0];
+        if(n==1) return nums[0];
 
-        vector<int> arr1(nums.begin(), nums.end()-1);
-        vector<int> arr2(nums.begin()+1, nums.end());
+        vector<int> temp1;
+        vector<int> temp2;
 
-        vector<int> dp1(arr1.size(), -1);
-        vector<int> dp2(arr2.size(), -1);
+        for(int i = 0; i < n; i++){
+            if(i!=(n-1)){
+                temp1.push_back(nums[i]);
+            }
+            if(i!=0){
+                temp2.push_back(nums[i]);
+            }
+        }
 
-        int case1 = solve(arr1, dp1, arr1.size()-1);
-        int case2 = solve(arr2, dp2, arr2.size()-1);
-
-        return max(case1, case2);
+        return max(solve(nums,temp1), solve(nums,temp2));
     }
 };
