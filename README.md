@@ -76,6 +76,7 @@
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditi-g24/DSA-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
