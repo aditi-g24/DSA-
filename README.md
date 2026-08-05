@@ -6,11 +6,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aditi-g24/DSA-/tree/master/0207-course-schedule) |
@@ -47,6 +49,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0110-balanced-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
