@@ -82,6 +82,7 @@
 | [0063-unique-paths-ii](https://github.com/aditi-g24/DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aditi-g24/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/aditi-g24/DSA-/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
@@ -192,6 +193,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -202,6 +204,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
@@ -224,10 +227,15 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
