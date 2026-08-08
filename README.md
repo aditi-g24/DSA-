@@ -85,6 +85,7 @@
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/aditi-g24/DSA-/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/aditi-g24/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
@@ -122,6 +123,7 @@
 | [0070-climbing-stairs](https://github.com/aditi-g24/DSA-/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/aditi-g24/DSA-/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/aditi-g24/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
