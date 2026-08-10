@@ -38,6 +38,7 @@
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aditi-g24/DSA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditi-g24/DSA-/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
@@ -89,6 +90,7 @@
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
@@ -126,6 +128,7 @@
 | [0152-maximum-product-subarray](https://github.com/aditi-g24/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditi-g24/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -240,4 +243,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
