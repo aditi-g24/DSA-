@@ -28,7 +28,7 @@ public:
                 int notTake = dp[ind - 1][t];
                 int take = 0;
                 if(nums[ind] <= t){
-                    take = dp[ind][t - nums[ind]];
+                    take = dp[ind - 1][t - nums[ind]];
                 }
                 dp[ind][t] = take + notTake;
             }
