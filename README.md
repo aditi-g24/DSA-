@@ -94,6 +94,7 @@
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
+| [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
@@ -294,4 +295,12 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditi-g24/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
