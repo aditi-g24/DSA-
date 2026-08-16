@@ -98,6 +98,7 @@
 | [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/aditi-g24/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/aditi-g24/DSA-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aditi-g24/DSA-/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
