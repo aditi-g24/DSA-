@@ -149,6 +149,7 @@
 | [0518-coin-change-ii](https://github.com/aditi-g24/DSA-/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditi-g24/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditi-g24/DSA-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Topological Sort
@@ -173,6 +174,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditi-g24/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
+| [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,4 +315,8 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-g24/DSA-/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/aditi-g24/DSA-/tree/master/2270-number-of-ways-to-split-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
