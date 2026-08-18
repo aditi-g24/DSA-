@@ -138,6 +138,7 @@
 | [0064-minimum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aditi-g24/DSA-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aditi-g24/DSA-/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/aditi-g24/DSA-/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/aditi-g24/DSA-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditi-g24/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditi-g24/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/aditi-g24/DSA-/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/aditi-g24/DSA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/aditi-g24/DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
