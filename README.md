@@ -151,6 +151,7 @@
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/aditi-g24/DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditi-g24/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditi-g24/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditi-g24/DSA-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -179,6 +180,7 @@
 | [0072-edit-distance](https://github.com/aditi-g24/DSA-/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/aditi-g24/DSA-/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditi-g24/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Binary Search
@@ -325,5 +327,6 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/aditi-g24/DSA-/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
