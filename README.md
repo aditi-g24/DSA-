@@ -331,4 +331,8 @@
 | [0583-delete-operation-for-two-strings](https://github.com/aditi-g24/DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/aditi-g24/DSA-/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
