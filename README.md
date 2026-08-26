@@ -97,6 +97,7 @@
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aditi-g24/DSA-/tree/master/0485-max-consecutive-ones) |
@@ -247,6 +248,7 @@
 | [0018-4sum](https://github.com/aditi-g24/DSA-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
