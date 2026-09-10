@@ -9,6 +9,7 @@
 | [0110-balanced-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditi-g24/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0802-find-eventual-safe-states](https://github.com/aditi-g24/DSA-/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditi-g24/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0110-balanced-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditi-g24/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
