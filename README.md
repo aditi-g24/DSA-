@@ -111,6 +111,7 @@
 | [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aditi-g24/DSA-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/aditi-g24/DSA-/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aditi-g24/DSA-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -132,6 +133,7 @@
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/aditi-g24/DSA-/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aditi-g24/DSA-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
