@@ -219,6 +219,7 @@
 | [0002-add-two-numbers](https://github.com/aditi-g24/DSA-/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/aditi-g24/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aditi-g24/DSA-/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/aditi-g24/DSA-/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3871-count-commas-in-range-ii](https://github.com/aditi-g24/DSA-/tree/master/3871-count-commas-in-range-ii) |
 ## Memoization
@@ -356,4 +357,8 @@
 | [0180-consecutive-numbers](https://github.com/aditi-g24/DSA-/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/aditi-g24/DSA-/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/aditi-g24/DSA-/tree/master/0185-department-top-three-salaries) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aditi-g24/DSA-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
