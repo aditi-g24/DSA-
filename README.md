@@ -115,6 +115,7 @@
 | [0994-rotting-oranges](https://github.com/aditi-g24/DSA-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-g24/DSA-/tree/master/1732-find-the-highest-altitude) |
@@ -165,6 +166,7 @@
 | [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditi-g24/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditi-g24/DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditi-g24/DSA-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -186,6 +188,7 @@
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -203,6 +206,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditi-g24/DSA-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -283,6 +287,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditi-g24/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
