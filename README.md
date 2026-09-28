@@ -190,6 +190,7 @@
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
 ## String
@@ -199,6 +200,7 @@
 | [0072-edit-distance](https://github.com/aditi-g24/DSA-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/aditi-g24/DSA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/aditi-g24/DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
@@ -273,6 +275,7 @@
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
