@@ -99,6 +99,7 @@
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
@@ -188,6 +189,7 @@
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
 ## String
@@ -270,6 +272,7 @@
 | [0018-4sum](https://github.com/aditi-g24/DSA-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
