@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditi-g24/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/aditi-g24/DSA-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/aditi-g24/DSA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
@@ -380,4 +381,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aditi-g24/DSA-/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
