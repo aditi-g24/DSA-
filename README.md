@@ -7,6 +7,7 @@
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditi-g24/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -16,6 +17,7 @@
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
@@ -35,6 +37,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
@@ -57,6 +60,7 @@
 | [0100-same-tree](https://github.com/aditi-g24/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditi-g24/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
