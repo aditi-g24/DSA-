@@ -11,6 +11,7 @@
 | [0113-path-sum-ii](https://github.com/aditi-g24/DSA-/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/aditi-g24/DSA-/tree/master/0687-longest-univalue-path) |
 | [2236-root-equals-sum-of-children](https://github.com/aditi-g24/DSA-/tree/master/2236-root-equals-sum-of-children) |
@@ -29,6 +30,7 @@
 | [0207-course-schedule](https://github.com/aditi-g24/DSA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditi-g24/DSA-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
 | [0687-longest-univalue-path](https://github.com/aditi-g24/DSA-/tree/master/0687-longest-univalue-path) |
@@ -72,6 +74,7 @@
 | [0113-path-sum-ii](https://github.com/aditi-g24/DSA-/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/aditi-g24/DSA-/tree/master/0687-longest-univalue-path) |
 | [2236-root-equals-sum-of-children](https://github.com/aditi-g24/DSA-/tree/master/2236-root-equals-sum-of-children) |
@@ -220,6 +223,7 @@
 | [0115-distinct-subsequences](https://github.com/aditi-g24/DSA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/aditi-g24/DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
@@ -349,6 +353,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/aditi-g24/DSA-/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/aditi-g24/DSA-/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
