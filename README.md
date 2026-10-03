@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/aditi-g24/DSA-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aditi-g24/DSA-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aditi-g24/DSA-/tree/master/0063-unique-paths-ii) |
@@ -226,6 +227,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditi-g24/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/aditi-g24/DSA-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/aditi-g24/DSA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
@@ -418,9 +420,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
