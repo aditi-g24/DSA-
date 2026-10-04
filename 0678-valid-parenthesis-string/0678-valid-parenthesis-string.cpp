@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        stack<char> st;
         int low = 0;
         int high = 0;
 
