@@ -14,6 +14,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/aditi-g24/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aditi-g24/DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/aditi-g24/DSA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aditi-g24/DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -40,6 +41,7 @@
 | [0207-course-schedule](https://github.com/aditi-g24/DSA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditi-g24/DSA-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/aditi-g24/DSA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aditi-g24/DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -97,6 +99,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/aditi-g24/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aditi-g24/DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/aditi-g24/DSA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aditi-g24/DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -458,4 +461,12 @@
 | [0032-longest-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aditi-g24/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditi-g24/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
