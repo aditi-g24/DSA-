@@ -270,6 +270,7 @@
 | [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aditi-g24/DSA-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditi-g24/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditi-g24/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditi-g24/DSA-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
@@ -366,6 +367,7 @@
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aditi-g24/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditi-g24/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditi-g24/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditi-g24/DSA-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
@@ -461,6 +463,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aditi-g24/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditi-g24/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aditi-g24/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditi-g24/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -470,6 +473,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aditi-g24/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditi-g24/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aditi-g24/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditi-g24/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Lifting
 |  |
 | ------- |
