@@ -177,6 +177,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditi-g24/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2270-number-of-ways-to-split-array](https://github.com/aditi-g24/DSA-/tree/master/2270-number-of-ways-to-split-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditi-g24/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditi-g24/DSA-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -280,12 +281,14 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditi-g24/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditi-g24/DSA-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditi-g24/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditi-g24/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Shortest Path
 |  |
 | ------- |
@@ -349,6 +352,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditi-g24/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditi-g24/DSA-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
 ## Ordered Set
@@ -371,6 +375,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aditi-g24/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditi-g24/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditi-g24/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditi-g24/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditi-g24/DSA-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
