@@ -178,6 +178,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditi-g24/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2270-number-of-ways-to-split-array](https://github.com/aditi-g24/DSA-/tree/master/2270-number-of-ways-to-split-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditi-g24/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditi-g24/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditi-g24/DSA-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -492,4 +493,8 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aditi-g24/DSA-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditi-g24/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
