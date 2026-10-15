@@ -268,6 +268,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aditi-g24/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/aditi-g24/DSA-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/aditi-g24/DSA-/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/aditi-g24/DSA-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aditi-g24/DSA-/tree/master/0257-binary-tree-paths) |
@@ -335,6 +336,7 @@
 | [0018-4sum](https://github.com/aditi-g24/DSA-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aditi-g24/DSA-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/aditi-g24/DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0977-squares-of-a-sorted-array) |
