@@ -137,6 +137,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aditi-g24/DSA-/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/aditi-g24/DSA-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aditi-g24/DSA-/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/aditi-g24/DSA-/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/aditi-g24/DSA-/tree/master/0063-unique-paths-ii) |
@@ -334,6 +335,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aditi-g24/DSA-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aditi-g24/DSA-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditi-g24/DSA-/tree/master/0125-valid-palindrome) |
