@@ -184,6 +184,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditi-g24/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditi-g24/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditi-g24/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aditi-g24/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditi-g24/DSA-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditi-g24/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
@@ -263,6 +264,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditi-g24/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditi-g24/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aditi-g24/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -521,8 +523,10 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditi-g24/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aditi-g24/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditi-g24/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aditi-g24/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
