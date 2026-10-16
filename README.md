@@ -156,6 +156,7 @@
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
@@ -254,6 +255,7 @@
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aditi-g24/DSA-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -285,6 +287,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
@@ -340,6 +343,7 @@
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditi-g24/DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -358,6 +362,7 @@
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0977-squares-of-a-sorted-array) |
