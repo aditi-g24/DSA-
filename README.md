@@ -150,6 +150,7 @@
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/aditi-g24/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aditi-g24/DSA-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
@@ -322,6 +323,7 @@
 | [0002-add-two-numbers](https://github.com/aditi-g24/DSA-/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/aditi-g24/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aditi-g24/DSA-/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/aditi-g24/DSA-/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/aditi-g24/DSA-/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditi-g24/DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -355,6 +357,7 @@
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditi-g24/DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/aditi-g24/DSA-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/aditi-g24/DSA-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
