@@ -180,6 +180,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-g24/DSA-/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/aditi-g24/DSA-/tree/master/1920-build-array-from-permutation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditi-g24/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditi-g24/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -480,6 +481,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/aditi-g24/DSA-/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditi-g24/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditi-g24/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
