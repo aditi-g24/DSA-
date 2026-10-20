@@ -180,6 +180,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditi-g24/DSA-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditi-g24/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aditi-g24/DSA-/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
