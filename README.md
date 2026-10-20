@@ -192,6 +192,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditi-g24/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditi-g24/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/aditi-g24/DSA-/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -330,6 +331,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditi-g24/DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/aditi-g24/DSA-/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/aditi-g24/DSA-/tree/master/3886-sum-of-sortable-integers) |
 ## Memoization
 |  |
 | ------- |
@@ -392,6 +394,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditi-g24/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditi-g24/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/aditi-g24/DSA-/tree/master/3886-sum-of-sortable-integers) |
 ## Ordered Set
 |  |
 | ------- |
@@ -536,6 +539,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditi-g24/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/aditi-g24/DSA-/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
