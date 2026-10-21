@@ -159,6 +159,7 @@
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/aditi-g24/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -498,6 +499,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aditi-g24/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/aditi-g24/DSA-/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
