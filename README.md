@@ -154,6 +154,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditi-g24/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/aditi-g24/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aditi-g24/DSA-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditi-g24/DSA-/tree/master/0189-rotate-array) |
@@ -315,6 +316,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aditi-g24/DSA-/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
