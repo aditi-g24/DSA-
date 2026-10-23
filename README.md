@@ -167,6 +167,7 @@
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aditi-g24/DSA-/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/aditi-g24/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/aditi-g24/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -246,6 +247,7 @@
 | [0152-maximum-product-subarray](https://github.com/aditi-g24/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aditi-g24/DSA-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditi-g24/DSA-/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/aditi-g24/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aditi-g24/DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aditi-g24/DSA-/tree/master/0494-target-sum) |
@@ -326,6 +328,7 @@
 | [0162-find-peak-element](https://github.com/aditi-g24/DSA-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-g24/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/aditi-g24/DSA-/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/aditi-g24/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditi-g24/DSA-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -605,4 +608,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aditi-g24/DSA-/tree/master/0278-first-bad-version) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aditi-g24/DSA-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
