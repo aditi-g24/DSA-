@@ -405,6 +405,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/aditi-g24/DSA-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditi-g24/DSA-/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/aditi-g24/DSA-/tree/master/0371-sum-of-two-integers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -503,6 +504,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditi-g24/DSA-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/aditi-g24/DSA-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditi-g24/DSA-/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
