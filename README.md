@@ -56,6 +56,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aditi-g24/DSA-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditi-g24/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -88,6 +89,7 @@
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aditi-g24/DSA-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditi-g24/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -123,6 +125,7 @@
 | [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/aditi-g24/DSA-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditi-g24/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -188,6 +191,7 @@
 | [0994-rotting-oranges](https://github.com/aditi-g24/DSA-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditi-g24/DSA-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditi-g24/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aditi-g24/DSA-/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -228,6 +232,7 @@
 | [0994-rotting-oranges](https://github.com/aditi-g24/DSA-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
