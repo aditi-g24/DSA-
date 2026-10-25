@@ -148,6 +148,7 @@
 | [0031-next-permutation](https://github.com/aditi-g24/DSA-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aditi-g24/DSA-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aditi-g24/DSA-/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/aditi-g24/DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aditi-g24/DSA-/tree/master/0073-set-matrix-zeroes) |
@@ -215,6 +216,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditi-g24/DSA-/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/aditi-g24/DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aditi-g24/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aditi-g24/DSA-/tree/master/0073-set-matrix-zeroes) |
@@ -523,6 +525,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditi-g24/DSA-/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/aditi-g24/DSA-/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditi-g24/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditi-g24/DSA-/tree/master/3498-reverse-degree-of-a-string) |
