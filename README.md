@@ -61,6 +61,7 @@
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditi-g24/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditi-g24/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditi-g24/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditi-g24/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditi-g24/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditi-g24/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditi-g24/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditi-g24/DSA-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditi-g24/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditi-g24/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditi-g24/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditi-g24/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditi-g24/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aditi-g24/DSA-/tree/master/3731-find-missing-elements) |
@@ -234,6 +238,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/aditi-g24/DSA-/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditi-g24/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
