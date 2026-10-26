@@ -189,6 +189,7 @@
 | [0494-target-sum](https://github.com/aditi-g24/DSA-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aditi-g24/DSA-/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/aditi-g24/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/aditi-g24/DSA-/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aditi-g24/DSA-/tree/master/0724-find-pivot-index) |
@@ -471,6 +472,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditi-g24/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/aditi-g24/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
