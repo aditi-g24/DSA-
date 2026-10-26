@@ -49,6 +49,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
 | [0687-longest-univalue-path](https://github.com/aditi-g24/DSA-/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/aditi-g24/DSA-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/aditi-g24/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditi-g24/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -81,6 +82,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aditi-g24/DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/aditi-g24/DSA-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/aditi-g24/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditi-g24/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -125,6 +127,7 @@
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/aditi-g24/DSA-/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/aditi-g24/DSA-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
@@ -186,6 +189,7 @@
 | [0494-target-sum](https://github.com/aditi-g24/DSA-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aditi-g24/DSA-/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/aditi-g24/DSA-/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aditi-g24/DSA-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
@@ -232,6 +236,7 @@
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/aditi-g24/DSA-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditi-g24/DSA-/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/aditi-g24/DSA-/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aditi-g24/DSA-/tree/master/0994-rotting-oranges) |
