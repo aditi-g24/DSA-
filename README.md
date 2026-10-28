@@ -126,6 +126,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aditi-g24/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-g24/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditi-g24/DSA-/tree/master/0547-number-of-provinces) |
@@ -169,6 +170,7 @@
 | [0118-pascals-triangle](https://github.com/aditi-g24/DSA-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/aditi-g24/DSA-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditi-g24/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aditi-g24/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aditi-g24/DSA-/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/aditi-g24/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -309,6 +311,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aditi-g24/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aditi-g24/DSA-/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/aditi-g24/DSA-/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/aditi-g24/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/aditi-g24/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
