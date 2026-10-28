@@ -354,6 +354,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditi-g24/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aditi-g24/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditi-g24/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditi-g24/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/aditi-g24/DSA-/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditi-g24/DSA-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditi-g24/DSA-/tree/master/3498-reverse-degree-of-a-string) |
@@ -619,6 +620,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditi-g24/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aditi-g24/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditi-g24/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditi-g24/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -629,6 +631,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditi-g24/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aditi-g24/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditi-g24/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditi-g24/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Lifting
 |  |
 | ------- |
