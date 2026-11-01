@@ -191,6 +191,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aditi-g24/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aditi-g24/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/aditi-g24/DSA-/tree/master/0494-target-sum) |
@@ -407,6 +408,7 @@
 | [0070-climbing-stairs](https://github.com/aditi-g24/DSA-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditi-g24/DSA-/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/aditi-g24/DSA-/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aditi-g24/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/aditi-g24/DSA-/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditi-g24/DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
