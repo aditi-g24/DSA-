@@ -191,6 +191,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-g24/DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditi-g24/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditi-g24/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aditi-g24/DSA-/tree/master/0485-max-consecutive-ones) |
@@ -328,6 +329,7 @@
 | [0217-contains-duplicate](https://github.com/aditi-g24/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditi-g24/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditi-g24/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aditi-g24/DSA-/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
