@@ -200,6 +200,7 @@
 | [0542-01-matrix](https://github.com/aditi-g24/DSA-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aditi-g24/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/aditi-g24/DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/aditi-g24/DSA-/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/aditi-g24/DSA-/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/aditi-g24/DSA-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aditi-g24/DSA-/tree/master/0724-find-pivot-index) |
@@ -328,6 +329,7 @@
 | [0242-valid-anagram](https://github.com/aditi-g24/DSA-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aditi-g24/DSA-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/aditi-g24/DSA-/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aditi-g24/DSA-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditi-g24/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -469,6 +471,7 @@
 | [0190-reverse-bits](https://github.com/aditi-g24/DSA-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditi-g24/DSA-/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/aditi-g24/DSA-/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/aditi-g24/DSA-/tree/master/0645-set-mismatch) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditi-g24/DSA-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditi-g24/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditi-g24/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -486,6 +489,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aditi-g24/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/aditi-g24/DSA-/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditi-g24/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
