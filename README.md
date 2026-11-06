@@ -447,6 +447,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditi-g24/DSA-/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aditi-g24/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aditi-g24/DSA-/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/aditi-g24/DSA-/tree/master/0328-odd-even-linked-list) |
 ## Recursion
