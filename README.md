@@ -428,6 +428,7 @@
 | [0189-rotate-array](https://github.com/aditi-g24/DSA-/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/aditi-g24/DSA-/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditi-g24/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0507-perfect-number](https://github.com/aditi-g24/DSA-/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/aditi-g24/DSA-/tree/master/0836-rectangle-overlap) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditi-g24/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi-g24/DSA-/tree/master/1588-sum-of-all-odd-length-subarrays) |
