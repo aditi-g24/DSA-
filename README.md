@@ -372,6 +372,7 @@
 | [0344-reverse-string](https://github.com/aditi-g24/DSA-/tree/master/0344-reverse-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/aditi-g24/DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/aditi-g24/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/aditi-g24/DSA-/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditi-g24/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aditi-g24/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/aditi-g24/DSA-/tree/master/1092-shortest-common-supersequence) |
@@ -753,4 +754,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditi-g24/DSA-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aditi-g24/DSA-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
