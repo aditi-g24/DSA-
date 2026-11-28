@@ -213,6 +213,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/aditi-g24/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/aditi-g24/DSA-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditi-g24/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1122-relative-sort-array](https://github.com/aditi-g24/DSA-/tree/master/1122-relative-sort-array) |
 | [1254-number-of-closed-islands](https://github.com/aditi-g24/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditi-g24/DSA-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aditi-g24/DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -346,6 +347,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aditi-g24/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aditi-g24/DSA-/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/aditi-g24/DSA-/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aditi-g24/DSA-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditi-g24/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditi-g24/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -530,6 +532,7 @@
 | [0645-set-mismatch](https://github.com/aditi-g24/DSA-/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi-g24/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditi-g24/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/aditi-g24/DSA-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditi-g24/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditi-g24/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aditi-g24/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -589,6 +592,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/aditi-g24/DSA-/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/aditi-g24/DSA-/tree/master/1122-relative-sort-array) |
 ## DP on Trees
 |  |
 | ------- |
@@ -600,6 +604,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditi-g24/DSA-/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/aditi-g24/DSA-/tree/master/1122-relative-sort-array) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -738,6 +743,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/aditi-g24/DSA-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditi-g24/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Interactive
 |  |
